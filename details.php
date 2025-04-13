@@ -32,8 +32,8 @@ include_once 'back.php';
             <div class="card shadow">
                 <div class="row">
                     <div class="col-md-12">
-                    <div class="card-header bg-success text-white">
-                    <h4 class="text-center mb-0">Scheduled Events</h4>
+                    <div class="card-header bg-danger text-white">
+                    <h4 class="text-center my-3">Scheduled Events</h4>
                 </div>
                 <div class="card-body">
                     <?php
